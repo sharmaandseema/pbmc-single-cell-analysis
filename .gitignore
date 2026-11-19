@@ -1,0 +1,12 @@
+data/*
+!data/README.md
+*.rds
+*.RDS
+*.tar.gz
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+Rplot*.png
+*console_history*
+results/recovered_*/
