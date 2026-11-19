@@ -1,0 +1,4 @@
+Same retained cell set: TRUE
+Exactly matching cell partitions: TRUE
+Cell-type labels were not automatically assigned to rebuilt clusters.
+Review marker evidence before interpreting any changed groups.

@@ -1,0 +1,3 @@
+Candidate labels copied by barcode from historical marker-based review.
+Exact cell-set and cluster-partition agreement checked before transfer.
+These labels are not independent biological validation.
